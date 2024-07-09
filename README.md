@@ -27,6 +27,7 @@ venv/Scripts/activate
 Step 6: Crawling
 
 -O: overwrite
+
 -o: append
 ```
 python -m scrapy crawl main -O output.csv
