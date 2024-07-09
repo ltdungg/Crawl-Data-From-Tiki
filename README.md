@@ -25,6 +25,8 @@ Step 5: Activate vitural environment
 venv/Scripts/activate
 ```
 Step 6: Crawling
+-O: overwrite
+-o: append
 ```
-python -m scrapy crawl main
+python -m scrapy crawl main -O output.csv
 ```
