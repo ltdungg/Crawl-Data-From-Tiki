@@ -3,7 +3,7 @@
 ## Technique
 - Python 3
 - Library: Scrapy, Selenium
-
+- Database: MySQL, PostgresSQL (update soon)
 ## How to Setup
 
 Step 1: Clone
