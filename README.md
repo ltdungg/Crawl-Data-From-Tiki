@@ -24,7 +24,7 @@ Step 5: Activate vitural environment
 ```
 venv/Scripts/activate
 ```
-Step 6: Crawling
+Step 6: Crawling\n
 -O: overwrite
 -o: append
 ```
