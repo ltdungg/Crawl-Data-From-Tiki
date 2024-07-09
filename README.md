@@ -4,6 +4,8 @@
 - Python 3
 - Library: Scrapy, Selenium
 
+## How to Setup
+
 Step 1: Clone
 ```
 git clone https://github.com/ltdungg/Crawl-Data-From-Tiki.git
