@@ -4,25 +4,27 @@
 - Python 3
 - Library: Scrapy, Selenium
 
-Clone:
+Step 1: Clone
 ```
-
+git clone https://github.com/ltdungg/Crawl-Data-From-Tiki.git
 ```
-
+Step 2: Go to work directory
 ```
-Install requirements:
+cd Crawl-Data-From-Tiki\TikiCrawler
+```
+Step 3: Install requirements
 ```
 pip install requirements.txt
 ```
-
-Create vitural environment
+Step 4: Create vitural environment
 ```
 python -m venv venv
 ```
-
-Activate vitural environment
-
+Step 5: Activate vitural environment
 ```
 venv/Scripts/activate
 ```
-
+Step 6: Crawling
+```
+python -m scrapy crawl main
+```
